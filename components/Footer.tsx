@@ -56,13 +56,11 @@ export default function Footer() {
               transition={{ duration: 0.6 }}
               viewport={{ once: true }}
             >
-              <div className="flex items-center space-x-3 mb-4">
-                <div className="w-12 h-12 bg-gradient-primary rounded-xl flex items-center justify-center">
-                  <span className="text-white font-bold text-xl">🎉</span>
+              <div className="flex items-center space-x-2 mb-4">
+                <div className="w-10 h-10 bg-gradient-primary rounded-full flex items-center justify-center animate-pulse-glow">
+                  <span className="text-white font-bold text-lg">H</span>
                 </div>
-                <span className="text-2xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-                  HappyBaby
-                </span>
+                <span className="text-xl font-bold">HAPPYBABYSHOW</span>
               </div>
               
               <p className="text-gray-400 mb-6 leading-relaxed">
@@ -191,7 +189,10 @@ export default function Footer() {
             viewport={{ once: true }}
             className="text-center text-gray-500 text-sm mt-8"
           >
-            <p>&copy; 2024 HappyBaby. All rights reserved. Made with ❤️ for families in Portugal & Spain.</p>
+            <p>&copy; 2024 HAPPYBABYSHOW. All rights reserved.</p>
+            <p className="mt-2">
+              Supporting families across Portugal 🇵🇹 and Spain 🇪🇸 in creating magical moments.
+            </p>
           </motion.div>
         </div>
       </div>

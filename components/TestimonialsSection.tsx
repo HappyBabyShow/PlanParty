@@ -11,7 +11,7 @@ const testimonials = [
     avatar: '👩‍💼',
     rating: 5,
     event: 'Birthday Party for Sofia (6 years)',
-    quote: 'HappyBaby made planning my daughter\'s superhero party so easy! The AI recommendations were spot-on, and we found amazing local vendors. The budget tracker helped us stay within €400, and everything was perfect!',
+    quote: 'HAPPYBABYSHOW made planning my daughter\'s superhero party so easy! The AI recommendations were spot-on, and we found amazing local vendors. The budget tracker helped us stay within €400, and everything was perfect!',
     highlight: 'Saved €200 and 15 hours of planning',
     flag: '🇵🇹'
   },
@@ -44,7 +44,7 @@ const testimonials = [
     avatar: '👩‍🦰',
     rating: 5,
     event: 'Princess Birthday Party for Katya (4 years)',
-    quote: 'Being new to Spain, finding trusted vendors was challenging. HappyBaby connected us with verified local suppliers, and the Russian language support made everything comfortable for our family.',
+    quote: 'Being new to Spain, finding trusted vendors was challenging. HAPPYBABYSHOW connected us with verified local suppliers, and the Russian language support made everything comfortable for our family.',
     highlight: 'Great for expat families',
     flag: '🇪🇸'
   },
@@ -55,7 +55,7 @@ const testimonials = [
     avatar: '👨‍💻',
     rating: 5,
     event: 'Twin Birthday Party for Lucas & Laura (8 years)',
-    quote: 'Planning a party for twins seemed impossible until I found HappyBaby. The AI suggested creative dual-theme ideas, and the budget planner helped manage costs for double everything!',
+    quote: 'Planning a party for twins seemed impossible until I found HAPPYBABYSHOW. The AI suggested creative dual-theme ideas, and the budget planner helped manage costs for double everything!',
     highlight: 'Perfect for complex events',
     flag: '🇵🇹'
   },
@@ -91,7 +91,7 @@ export default function TestimonialsSection() {
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto mb-8">
             Join over 500 happy families across Portugal and Spain who have created 
-            unforgettable memories with HappyBaby.
+            unforgettable memories with HAPPYBABYSHOW.
           </p>
           
           {/* Stats */}

@@ -44,15 +44,13 @@ export default function HeroSection() {
             </motion.div>
           </div>
           
-          <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-gray-900 mb-6 leading-tight">
-            Welcome to{' '}
-            <span className="bg-gradient-primary bg-clip-text text-transparent">
-              HappyBaby
+          <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-gray-900 mb-6">
+            Plan Your Perfect{' '}
+            <span className="bg-gradient-primary bg-clip-text text-transparent animate-gradient">
+              Kids' Party
             </span>
             <br />
-            <span className="text-3xl md:text-5xl lg:text-6xl">
-              🎉 Perfect Parties Made Easy
-            </span>
+            in Minutes
           </h1>
           <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto">
             AI-powered event planning platform for unforgettable children's celebrations 

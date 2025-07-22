@@ -13,16 +13,13 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "HappyBaby - AI-Powered Kids Party Planning Platform",
-  description: "Plan perfect children's parties in Portugal & Spain with AI recommendations, curated vendors, budget tracking, and timeline management. Multilingual support for families.",
-  keywords: "kids party planning, children events, Portugal, Spain, AI recommendations, party vendors, budget planner, event timeline, multilingual, family celebrations",
-  authors: [{ name: "HappyBaby Team" }],
+  title: "HAPPYBABYSHOW - Plan Perfect Kids' Parties in Portugal & Spain",
+  description: "AI-powered event planning platform for children's parties. Find vendors, manage budgets, and create unforgettable celebrations in Portugal and Spain.",
+  keywords: "children's party planning, kids events, Portugal, Spain, event planning, party vendors, birthday parties",
   openGraph: {
-    title: "HappyBaby - AI-Powered Kids Party Planning",
-    description: "Simplify children's party planning with AI-driven recommendations and local vendor marketplace in Portugal & Spain.",
+    title: "HAPPYBABYSHOW - Plan Perfect Kids' Parties",
+    description: "AI-powered event planning platform for children's parties in Portugal and Spain",
     type: "website",
-    locale: "en_US",
-    alternateLocale: ["pt_PT", "es_ES", "ru_RU", "uk_UA"],
   },
 };
 
